@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PDCHub.Application", "PDCHub.Application", "{E979CEEF-E15E-4248-A773-FDA45A0BDA29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PDCHub.Domain", "PDCHub.Domain", "{54C1EBE7-CF5B-4789-BC44-5B5BD64A2341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PDCHub.Infra.Data", "PDCHub.Infra.Data", "{E391383F-6A08-4800-9EFF-C6B9D94F36C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PDCHub.Infra.IoC", "PDCHub.Infra.IoC", "{EFF1B270-40A8-4FEC-B95D-EA0A73A6FFEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PDCHub.UI", "PDCHub.UI", "{032B6798-0C48-487D-B48D-FA88E0E0F438}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
